@@ -5,6 +5,9 @@ This document/repository lists the technologies adopted by PPIGM. We keep track 
 ## Namecheap Domain Management Service
 Most important asset. Used for domain and DNS management, email forwarding and aliases, etc. DO NOT EVER FORGET TO RENEW THE ppigm.org DOMAIN!
 
+## PPIGM Link Shortener by Rebrandly
+Link Shortener with form `link.ppigm.org` made by Rebrandly.
+
 ## PPIGM Website (`www.ppigm.org`) hosted on Netlify.
 Simple single page HTML website with a simple gallery and committee portraits, and a contact button in the end
 
