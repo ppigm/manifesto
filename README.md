@@ -2,6 +2,9 @@
 
 This document/repository lists the technologies adopted by PPIGM. We keep track of things for handover and transition purposes between generations, and hopefully other Communities can adopt similar methods as us, apart from this Github Repository.
 
+## SumUp PPIGM store (`store.ppigm.org`)
+Online store powered by sumup. User credentials given to treasurer@ppigm.org, tech team needs to maintain domain renewal so that the store subdomain doesn't fall flat
+
 ## Namecheap Domain Management Service
 Most important asset. Used for domain and DNS management, email forwarding and aliases, etc. DO NOT EVER FORGET TO RENEW THE ppigm.org DOMAIN!
 
