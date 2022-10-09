@@ -19,3 +19,6 @@ Simple Gitbook to be used as our handbook for Indonesian Students in Manchester
 
 ## PPIGM Blog (`blog.ppigm.org`) hosted on Netlify.
 A Gatsby Website that accepts data from the Contentful CMS and delivers them as blogs. Builds a new website on publication of a new blog object by a Netlify Webhook
+
+## PPIGM Elections App Script
+Connected to Google Sheets Form. Here: <script src="https://gist.github.com/rakhadjo/d10191e66701bbae05eb1389f550472c.js"></script>
